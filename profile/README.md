@@ -34,8 +34,15 @@
 ![Three.js](https://img.shields.io/badge/three.js-000000?logo=three.js&logoColor=white)
 
 **Backend**  
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
+
+**AI**  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
 
 **Infra**  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
@@ -58,7 +65,7 @@
     </td>
     <td align="center" width="160">
       <img src="https://github.com/username2.png" width="100" alt="">
-      <br/><sub><b>이현잔</b></sub><br/>
+      <br/><sub><b>이현진</b></sub><br/>
       <a href="https://github.com/guswlsl" style="font-size:12px;">github</a>
     </td>
     <td align="center" width="160">
