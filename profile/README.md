@@ -6,7 +6,7 @@
 <h1 align="center">ShinChapter </h1>
 <p align="center">
   <img src="https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white">
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white">
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white">
 </p>
@@ -30,8 +30,8 @@
 
 **Frontend**  
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
 ![Three.js](https://img.shields.io/badge/three.js-000000?logo=three.js&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
 
 **Backend**  
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
